@@ -5,6 +5,14 @@ let ageOfReshma = 25;
 // "Reshma is the same age as me" if Reshma is your age
 // "Reshma is not my age" if Reshma is older or younger than you
 
+let myAge = 22;
+
+if (ageOfReshma === myAge) {
+    console.log("Yes");
+} else {
+    console.log("No");
+}
+
 
 
 
